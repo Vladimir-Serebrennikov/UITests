@@ -10,7 +10,6 @@ public class Profile {
         this.numberOfRepositories = numberOfRepositories;
         this.locationCity = locationCity;
         this.numberOfContribution = numberOfContribution;
-        //this.readyToRelocate = readyToRelocate;
     }
 
     public String getGender() {
